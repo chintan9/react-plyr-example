@@ -12,8 +12,8 @@ class App extends Component {
     return (
       <div>
         <Plyr
-          type="youtube"
-          videoId="3xGJZoaTODQ"
+          type="video"
+          url="https://github.com/chintan9/react-plyr-example/blob/master/Big_Buck_Bunny_1080_10s_30MB.mp4"
         />
       </div>
     );
