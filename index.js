@@ -13,7 +13,7 @@ class App extends Component {
       <div>
         <Plyr
           type="video"
-          url="https://github.com/chintan9/react-plyr-example/blob/master/Big_Buck_Bunny_1080_10s_30MB.mp4"
+          url="https://now-serve-1caeda3efe559aef5c5e41c90fc9153e.chintan9.now.sh/content/Big_Buck_Bunny_1080_10s_30MB.mp4"
         />
       </div>
     );
